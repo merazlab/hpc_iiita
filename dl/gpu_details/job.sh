@@ -24,6 +24,10 @@ echo Job Id  :-- $PBS_JOBID
 echo Job Start Time:-- `date`
 echo Working directory is $PBS_O_WORKDIR
 
+#NVIDIA detils
+echo "NVIDIA details"
+nvidia-smi
+
 source activate p6p17c92 
 
 cd /home/javed/hpc_iiita/dl/gpu_details	
