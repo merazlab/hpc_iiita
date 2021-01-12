@@ -1,4 +1,4 @@
-# HPC IIITA
+# hpc_iiita
 
 ### Topic
 
