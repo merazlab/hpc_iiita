@@ -30,3 +30,5 @@
         1. Single GPU Job
         2. Multiple GPU Job
 7. Advance
+8. To count flops install
+   pip install pthflops
